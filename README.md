@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nerowolf209
-- 👀 I’m interested in learning to code for work (Python, Django), Webdevelopment (HTML,CSS,JS, React,JS) and indie game development (C++)
+- 👀 I’m interested in learning to code for work (Python, Django), Web development (HTML,CSS,JS, React,JS) and indie game development (C++)
 - 🌱 I’m currently learning Python, Web development bootcamp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me james.ioioio55@gmail.com
